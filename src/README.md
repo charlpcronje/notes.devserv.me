@@ -12,6 +12,9 @@
 
 ## Links
 
+- [ ][https://developer.mozilla.org/en-US/docs/Web/API#specifications](https://developer.mozilla.org/en-US/docs/Web/API#specifications)
+List of all the web API's being used in VS Code Server
+
 - [ ][https://github.com/dukeofharen/httplaceholder](https://github.com/dukeofharen/httplaceholder)
 HttPlaceholder lets you stub away any HTTP webservice.
 
