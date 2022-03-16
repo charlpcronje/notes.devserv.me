@@ -11,6 +11,9 @@
 
 ## Links
 
+- [ ][https://www.baeldung.com/category/devops/](https://www.baeldung.com/category/devops/)
+DevOps discipline is critical to deploying real-life applications
+
 - [ ][https://developer.mozilla.org/en-US/docs/Web/API#specifications](https://developer.mozilla.org/en-US/docs/Web/API#specifications)
 List of all the web API's being used in VS Code Server
 
