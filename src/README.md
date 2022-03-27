@@ -11,6 +11,9 @@
 
 ## Links
 
+- [ ][https://cloud.google.com/shell](https://cloud.google.com/shell)
+Manage your infrastructure and develop your applications from any browser.
+
 - [ ][https://www.baeldung.com/category/devops/](https://www.baeldung.com/category/devops/)
 DevOps discipline is critical to deploying real-life applications
 
