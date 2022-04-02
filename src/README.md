@@ -1,3 +1,16 @@
+---
+Title: Notes and Links | DEVserv.ME
+label: Notes and links on DEVserv.ME
+order: 180
+authors:
+  - name: Charl Cronje
+    email: charl@devserv.me
+    link: https://charl-cv.devserv.me
+    avatar: https://assets.devserv.me/avatars/darker.jpg
+tags: [dev,heepp,php,model,view,controller,js,scss,custom elements,templates,events,frontend]
+---
+
+
 ```sh
 .  ..__..___..___ __.   .__ .__. __  __.   .  ..___
 |\ ||  |  |  [__ (__    |  \|  |/  `(__    |\/|[__ 
