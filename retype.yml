@@ -4,6 +4,7 @@ url: http://notes.docs.cronje.me
 branding:
   title: Notes and Links | cronje.me
   label: NOTES
+favicon: ./favicon.png
 links:
 - text: Dashboard
   link: https://nav.cronje.me
