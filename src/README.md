@@ -17,8 +17,15 @@ tags: [dev,heepp,php,model,view,controller,js,scss,custom elements,templates,eve
 | \||__|  |  [___.__) * |__/|__|\__..__) * |  |[___
 01001110   01001111   01010100   01000101   01010011 
 00101110   01000100   01001111   01000011   01010011 
-00101110 01001101 01000101                                                    
+00101110   01001101   01000101                                                    
 ```
+
+## Ideas to think about
+
+It happens every now and then that I think of something that I believe warrants some more time, also I know it always happens when you tell someone about a new idea, that person usually have a few good ideas that goes with yours etc.
+So I'm going t start writing down some of my ideas here and hopefully I get some feedback from people. I'd like to know what you think of the idea, if you think it's worth spending more time on, if you think it is worth investing on, or anything else you might think of that can perhaps be useful, __or even tell you if you think it is a worthless crazy idea so that I can delete it before I bring more embarrassment upon myself 🤣__
+
+- [ ][Open Ideas](ideas.md)
 
 ## Seems Interesting
 
@@ -30,8 +37,10 @@ tags: [dev,heepp,php,model,view,controller,js,scss,custom elements,templates,eve
 - [Witeboard](https://witeboard.com), Draw and share your whiteboard in online Meetings
 
 
-
 ## Links
+
+- [ ][https://www.landingfolio.com](https://www.landingfolio.com/)
+Hundreds of free web components and templates for all pages
 
 - [ ][https://cloud.google.com/shell](https://cloud.google.com/shell)
 Manage your infrastructure and develop your applications from any browser.
