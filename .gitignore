@@ -1,4 +1,5 @@
 .retype/
 .history/
+.vscode
 logs/
 public/
